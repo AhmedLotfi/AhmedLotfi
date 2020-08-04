@@ -1,7 +1,7 @@
 Hello 😄
 
 I'm AhmedLotfi full-stack .net developer who is passionate about making web applications with modern technoligies .
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Coding](https://giphy.com/gifs/memecandy-PiQejEf31116URju4V)
 <!--
 **AhmedLotfi/AhmedLotfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
