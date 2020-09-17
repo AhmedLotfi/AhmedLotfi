@@ -2,9 +2,11 @@
 
 #### I'm AhmedLotfi full-stack .net developer who is passionate about making web applications with modern technoligies .
 
-- 🔭 I’m currently working on Asp.Net Core 3.1 & Angular 9
+- 🔭 I’m currently working on Asp.Net Core  & Angular 
 
 ![Coding](https://media3.giphy.com/media/PiQejEf31116URju4V/giphy.gif)
+
+
 <!--
 **AhmedLotfi/AhmedLotfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
