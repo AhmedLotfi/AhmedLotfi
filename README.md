@@ -10,10 +10,11 @@
 
  ##### **Back-End** : 
  ##### **Front-End** 
-  -  <a href="https://www.typescriptlang.org/" target="_blank"> 
+ - <p class="align">
+ <a href="https://www.typescriptlang.org/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
 </a>
-
+</p>
  ##### **Tools** : <p align="left"> <a href="https://git-scm.com/" target="_blank"> </p>
 
 
