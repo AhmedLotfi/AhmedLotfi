@@ -6,7 +6,6 @@
 
 ![Coding](https://media3.giphy.com/media/PiQejEf31116URju4V/giphy.gif)
 
-<h4 align="left"> ⚡ languages and tools i've worked with</h3>
 
 <!--
 **AhmedLotfi/AhmedLotfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
