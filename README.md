@@ -7,9 +7,10 @@
 ![Coding](https://media3.giphy.com/media/PiQejEf31116URju4V/giphy.gif)
 
 <h4 align="left"> 🌸 languages and tools i've worked with</h3>
- - **Back-End**: 
- - **Front-End**:
- - **Tools**: <a href="https://git-scm.com/" target="_blank">
+
+ - **Back-End** : 
+ - **Front-End** :
+ - **Tools** : <p align="left"> <a href="https://git-scm.com/" target="_blank"> </p>
 
 
 
