@@ -8,9 +8,8 @@
 
 <h4 align="left"> 🌸 languages and tools i've worked with</h3>
 
- ##### **Back-End** : 
- ##### **Front-End** 
- - <p class="align">
+ ##### **Back-End** 
+ ##### **Front-End**  <p class="align">
  <a href="https://www.typescriptlang.org/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
 </a>
