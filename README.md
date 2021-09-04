@@ -17,7 +17,7 @@
 
 ⚡ **Tools**
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Git" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="VS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Git" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="VS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="50" height="50"/>
 
 
 ⚡⚡ **In Love With**  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" alt="unity" width="50" height="50" />
