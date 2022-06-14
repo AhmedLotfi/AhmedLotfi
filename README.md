@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently practicing in:
 - <a href="https://leetcode.com/AhmedLotfiii"> LeetCode </a>
-- <a href="https://exercism.org/profiles/ahmedlotfiii"> Exersim </a>
 - <a href="https://www.hackerrank.com/ahmedLotfiAli"> HackerRank </a>
 
 ⚡ Currently foucsing on **.NET Core**, **Angular**.
