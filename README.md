@@ -2,7 +2,12 @@
 
 #### I'm <a href="https://www.linkedin.com/in/ahmed-lotfi-ba2206111" target="_blank">AhmedLotfi</a> Full Stack Developer who is passionate about making web applications with modern technoligies .
 
-⚡ Currently foucsing on **.NET Core**, **Angular** & **Unity3d**. 
+- 🌱 I’m currently practicing in:
+- <a href="https://leetcode.com/AhmedLotfiii"> LeetCode </a>
+- <a href="https://exercism.org/profiles/ahmedlotfiii"> Exersim </a>
+- <a href="https://www.hackerrank.com/ahmedLotfiAli"> HackerRank </a>
+
+⚡ Currently foucsing on **.NET Core**, **Angular**.
 
 ⚡ Front-End **Stack**
 
@@ -17,7 +22,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Git" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="VS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="50" height="50"/>
 
 
-⚡⚡ **In Love With**  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" alt="unity" width="50" height="50" />
 
 <!--
 **AhmedLotfi/AhmedLotfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +29,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
