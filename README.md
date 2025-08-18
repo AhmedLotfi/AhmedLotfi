@@ -8,18 +8,13 @@
 
 ⚡ Currently foucsing on **.NET Core**, **Angular**.
 
-⚡ Front-End **Stack**
+## GitHub Stats
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="JQuery" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" alt="Electron" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" alt="Ionic" width="50" height="50"/> 
-
-⚡ Back-End **Stack**
-
-<a href="https://dotnet.microsoft.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt=".net" width="50" height="50" /></a> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="cSharp" width="60" height="60"/>
-
-⚡ **Tools**
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Git" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="VS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="50" height="50"/>
-
+<a href="https://github.com/AhmedLotfi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedLotfi&show_icons=true&theme=shades-of-purple&count_private=true" alt="AhmedLotfi's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedLotfi&theme=shades-of-purple&layout=compact" 
+    alt="AhmedLotfi GitHub Top Languages" />
+</a>
 
 
 <!--
