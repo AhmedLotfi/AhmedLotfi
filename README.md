@@ -6,7 +6,7 @@
 - <a href="https://leetcode.com/AhmedLotfiii"> LeetCode </a>
 - <a href="https://www.hackerrank.com/ahmedLotfiAli"> HackerRank </a>
 
-⚡ Currently foucsing on **.NET Core**, **Angular**.
+⚡ Currently foucsing on **.NET Core**, **Angular**, **AI**.
 
 ## GitHub Stats ⚡
 
