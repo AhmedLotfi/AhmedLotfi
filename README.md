@@ -8,15 +8,6 @@
 
 ⚡ Currently foucsing on **.NET Core**, **Angular**, **AI**.
 
-## GitHub Stats ⚡
-
-<a href="https://github.com/AhmedLotfi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedLotfi&show_icons=true&theme=shades-of-blue&count_private=true" alt="AhmedLotfi's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedLotfi&theme=shades-of-blue&layout=compact" 
-    alt="AhmedLotfi GitHub Top Languages" />
-</a>
-
-
 <!--
 **AhmedLotfi/AhmedLotfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
