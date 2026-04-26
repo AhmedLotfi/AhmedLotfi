@@ -17,13 +17,13 @@
 
 ```yaml
 role:        Technical Team Lead (.NET)
-company:     Compass International Software / ENOC
+company:     ENOC
 location:    Dubai, United Arab Emirates 🇦🇪
 focus:       [Enterprise APIs, Microservices, System Integration]
 recent_wins:
   - "30% faster API response times"
   - "40% improved code maintainability on legacy services"
-  - "Built admin portals on .NET 10 + Angular 20 with SSO/AD"
+  - "Built admin portals on .NET 10 + Angular 21 with SSO/AD"
 exploring:   [.NET 10, Angular 20, AI-assisted development]
 ```
 
