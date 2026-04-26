@@ -96,9 +96,6 @@ exploring:   [.NET 10, Angular 20, AI-assisted development]
 
 ![Streak](https://streak-stats.demolab.com/?user=AhmedLotfi&theme=github-dark&hide_border=true&background=0D1117&ring=2C5364&fire=2C5364&currStreakLabel=2C5364)
 
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhmedLotfi&theme=github_dark)
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmedLotfi&theme=github_dark)
-
 </div>
 
 <br/>
