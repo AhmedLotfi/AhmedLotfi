@@ -5,7 +5,7 @@ Technical Team Lead working with **.NET** at ENOC in Dubai. I spend most of my t
 Lately I've been deep in **.NET 10**, **Angular**, and figuring out how AI fits into day-to-day dev work.
 
 ```
-C#  ·  .NET  ·  Angular  ·  SQL Server  ·  Azure  ·  Docker
+C#  ·  .NET  ·  Angular  ·  SQL Server  ·  Azure  ·  Docker  ·  RAG  ·  Local LLM Intergration with .NET Apps
 ```
 
 📫 [LinkedIn](https://www.linkedin.com/in/AhmedLotfi) · [Email](mailto:ahmedlotfiali@gmail.com)
