@@ -2,7 +2,7 @@
 
 Technical Team Lead working with **.NET** at ENOC in Dubai. I spend most of my time building APIs, microservices, and keeping enterprise systems talking to each other.
 
-Lately I've been deep in **.NET 10**, **Angular**, and figuring out how AI fits into day-to-day dev work.
+Lately I've been deep in **.NET**, **Angular**, and figuring out how AI fits into day-to-day dev work.
 
 ```
 C#  ·  .NET  ·  Angular  ·  SQL Server  ·  Azure  ·  Docker  ·  RAG  ·  Local LLM Intergration with .NET Apps
